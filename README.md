@@ -21,7 +21,9 @@
   <a href="https://www.instagram.com/joaumtorres/" target="_blank">
   <img align="center" alt="joaumtorres-instagram" height="50" width="50" src="https://www.campolargo.pr.leg.br/imagens/instagram.png" style="max-width:100%;">
 </a>
-  <a href = "mailto:torresjoaofrancisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:torresjoaofrancisco@gmail.com"> 
+  <img align="center" height="70" width="70" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2923657-2416660.png" style="max-width:100%;"> 
+  </a>
  
  </div>
   
