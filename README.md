@@ -91,10 +91,10 @@
 <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=JiscoTorres&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
   width="100%" />
-<br />
+<br /> <br>
  
   &nbsp;
-  #### Social Links and Contacts:
+  #### 💬 Social Links and Contacts:
   ##
   <div align="center" style="display: inline_block"> 
  
