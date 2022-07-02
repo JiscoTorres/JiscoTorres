@@ -53,6 +53,7 @@
  ![PyCharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
  ![arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=1572B6)&nbsp;
  ![STM32](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics)&nbsp;
+ ![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=react)&nbsp;
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
  ![unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=1572B6)&nbsp;
  ![Construct](https://img.shields.io/badge/-Construct3-05122A?style=flat&logo=construct3)&nbsp;
