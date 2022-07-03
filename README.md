@@ -5,7 +5,8 @@
 
 ### 👨🏿 About me:
 - ♍ Birthday: 09/09/2004;
-- 📍 From: BRASÍLIA/DF-🇧🇷.
+- 📍 From: BRASÍLIA/DF-🇧🇷;
+- 🏠 Currently living in "Santa Rita do Sapucaí-MG", the electronics valley.
 <br><br><br>
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/JiscoTorres?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/JiscoTorres?tab=followers"><img align="right" src="https://img.shields.io/github/followers/JiscoTorres?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/JiscoTorres">  <img align="right" src="https://komarev.com/ghpvc/?username=JiscoTorres"></a>
