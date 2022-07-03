@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/JiscoTorres">
     <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiscoTorres&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiscoTorres&langs_count=8&theme=react&bg_color=151515" />
 </p>
 
 <a href="https://github.com/JiscoTorres"><img alt="JiscoTorres's Github Stats"
@@ -89,7 +89,7 @@
   
 <h2 align="center">🏆 Github Trophies:</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=JiscoTorres&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=JiscoTorres&theme=algolia&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
   width="100%" />
 <br /> <br>
  
