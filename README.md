@@ -34,17 +34,18 @@
 <br><br><br>
 ## 💻 &nbsp;Tech Stack:
  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=1572B6)&nbsp;
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/C%23-563d7c?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 <br><br>
 ## 🔎 &nbsp;Learning:
 
-![CSharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp&logoColor=1572B6)&nbsp;
 ![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 
@@ -53,21 +54,27 @@
 
  ## 🛠 &nbsp;Tools:
  
- ![Vs](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
- ![PyCharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+ [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+ [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+ [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
+ [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+ [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+ <br>
  ![arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=1572B6)&nbsp;
- ![STM32](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics)&nbsp;
- ![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=react)&nbsp;
- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
- ![unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=1572B6)&nbsp;
- ![Construct](https://img.shields.io/badge/-Construct3-05122A?style=flat&logo=construct3)&nbsp;
- 
+ ![STM32](https://img.shields.io/badge/-STM32CubeIDE-%2300C4CC.svg?style=flat&logo=stmicroelectronics)&nbsp;
+ ![Proteus](https://img.shields.io/badge/-Proteus-0054F7?style=flat&logo=react)&nbsp;
+ [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+ [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+ [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+ [![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)](#)
+ [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 <br>
-
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 ![Adobe](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
-![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
+[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 <br><br>
 
 <br><br>
