@@ -1,13 +1,16 @@
 # Howdy! Welcome to my Github's spot.
-- 🎓 Studying *Software Development* at ETE (Escola Técnica de Electrónica - Francisco Moreira da Costa) at the third grade.
-- 🔭 I’m currently learnig about OOP (object-oriented programming).
+- 🎓 Graduating in *Computer Science* at Centro Universitário de Brasília (CEUB).
+- 🛠️ Technical degrees in *Electronics* and *Software Development* from ETE (Escola Técnica de Eletrônica - Francisco Moreira da Costa), located in Santa Rita do Sapucaí - MG, the "Electronics Valley".
+- 💡 Experience with LED panels and electronics.
+- 🎖 Military background, fostering discipline, leadership, and teamwork.
+- 🔭 Currently expanding my knowledge in Object-Oriented Programming (OOP) and software development.
 
 
 ### 👨🏿 About me:
 - ♍ Birthday: 09/09/2004;
-- 📍 From: BRASÍLIA/DF-🇧🇷;
-- 🏠 Nowadays i'm living in *Santa Rita do Sapucaí-MG*, the electronics valley.
+- 📍 Currently living in: *Brasília*, Distrito Federal - Brasil.
 <br><br><br>
+
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/JiscoTorres?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/JiscoTorres?tab=followers"><img align="right" src="https://img.shields.io/github/followers/JiscoTorres?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/JiscoTorres">  <img align="right" src="https://komarev.com/ghpvc/?username=JiscoTorres"></a>
 <p>
