@@ -15,17 +15,7 @@
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/JiscoTorres?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/JiscoTorres?tab=followers"><img align="right" src="https://img.shields.io/github/followers/JiscoTorres?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/JiscoTorres">  <img align="right" src="https://komarev.com/ghpvc/?username=JiscoTorres"></a>
 <p>
 
-<div align="center">
-  <a href="https://github.com/JiscoTorres">
-    <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiscoTorres&langs_count=8&theme=react&bg_color=151515" />
-</p>
-
-<a href="https://github.com/JiscoTorres"><img alt="JiscoTorres's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=JiscoTorres&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiscoTorres&theme=black-ice"
-    alt="JiscoTorres" /></p>
+<a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=JiscoTorres" width="600" /></a>
 </div>
  </div> </p>
   
