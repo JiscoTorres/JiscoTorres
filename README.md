@@ -95,13 +95,11 @@
 <br /> <br>
  
   &nbsp;
-  #### 💬 Social Links and Contacts:
+  #### 💬 Contact:
   ##
   <div align="center" style="display: inline_block"> 
  
-  <a href="https://www.instagram.com/joaumtorres/" target="_blank">
-  <img align="center" alt="joaumtorres-instagram" height="40" width="40" src="https://www.campolargo.pr.leg.br/imagens/instagram.png" style="max-width:100%;">
-</a>
+ 
   <a href = "mailto:torresjoaofrancisco@gmail.com"> 
   <img align="center" height="55" width="55" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2923657-2416660.png" style="max-width:100%;"> 
   </a>
