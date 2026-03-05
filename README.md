@@ -3,7 +3,7 @@
 - 🛠️ Technical degrees in *Electronics* and *Software Development* from ETE (Escola Técnica de Eletrônica - Francisco Moreira da Costa), located in Santa Rita do Sapucaí - MG, the "Electronics Valley".
 - 💡 Experience with LED panels and electronics.
 - 🎖 Military background, fostering discipline, leadership, and teamwork.
-- 🔭 Currently expanding my knowledge in Object-Oriented Programming (OOP) and software development.
+- 🔭 Currently expanding my knowledge in software development, with a focus on **Data Modeling**, **Requirements Analysis** and **SQL database development**.
 
 
 ### 👨🏿 About me:
